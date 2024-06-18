@@ -1,46 +1,46 @@
 ﻿<div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/b68/b68c7aee227ff146819fe3d51aaafc4f.png?e7cb7773-54ff-4e90-bc89-eb2d08aa105a" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/b68/b68c7aee227ff146819fe3d51aaafc4f.png?51756f1e-1f48-4a2a-ab41-6bdafc9b91f9" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1879563/">Отдай корень! Библиотека OneScript для получения информации о захваченных объектах в хранилище</a></h4>
 > <small>Хранилище конфигурации 1С - это инструмент групповой разработки. Работают с хранилищем следующим образом: захватывают какой-либо объект, редактируют, потом отдают его в хранилище. Хранилище помечает уже захваченные объекты и не дает возможности захватить их другим пользователям. Это рождает и самый большой недостаток хранилища - невозможность работы с одним объектом нескольких пользователей, например в случае доработки разных методов в одном большом модуле.</small>  
 > <br clear="left">
 >
-> | :star: +27 |  :calendar: 26.12.2023 |  :speech_balloon: 1 |  :eyes: 1749 |
+> | :star: +27 |  :calendar: 26.12.2023 |  :speech_balloon: 1 |  :eyes: 1753 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/ae7/ae7cfed9f25da1e28207204dd72ba7cb.jpg?c3c55cab-2db7-4d9f-9052-550bbe9be961" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/ae7/ae7cfed9f25da1e28207204dd72ba7cb.jpg?771b5a22-b51d-473f-bcd4-5806b831a8ce" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1873832/">Первый день архитектора 1С на новой работе</a></h4>
 > <small>Как быстро познакомиться с системой на новой работе или если вас пригласили провести аудит контура на 1С? О том, какие инструменты использовать для быстрой проверки настроек сервера 1С, сервера MS SQL и общей оценки инфраструктуры на производительность, на конференции Infostart Event 2021 Post-Apocalypse рассказал архитектор 1С Юрий Былинкин.</small>  
 > <br clear="left">
 >
-> | :star: +83 |  :calendar: 01.06.2023 |  :speech_balloon: 19 |  :eyes: 11636 |
+> | :star: +83 |  :calendar: 01.06.2023 |  :speech_balloon: 19 |  :eyes: 11653 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/e74/e74f5448aeaae005ebb3b127847d60c8.png?28331f02-fd89-4ac3-9b07-21eaf7c6b243" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/e74/e74f5448aeaae005ebb3b127847d60c8.png?48ad8f62-ae01-49a5-9168-6a239f4afc7c" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1824479/">Получаем статистику по git-репозиторию в разрезе разработчиков</a></h4>
 > <small>Итак! Представим, что наступил момент, когда разработка через исходный код реализована на предприятии в полном объеме. Мы разрабатываем в EDT или конфигураторе (но выгружаем конфигурацию в исходный код), версионируем внешние отчеты и обработки и расширения, собираем релизы, проверяем код статическим анализом, в разработке царит гармония и мир. Красота!</small>  
 > <br clear="left">
 >
-> | :star: +27 |  :calendar: 13.03.2023 |  :speech_balloon: 3 |  :eyes: 4308 |
+> | :star: +27 |  :calendar: 13.03.2023 |  :speech_balloon: 3 |  :eyes: 4316 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/3bb/3bb1cf5d4d6c00bdc663e8e52cae6546.png?73659d8a-a682-4b3d-9452-7acd724be72c" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/3bb/3bb1cf5d4d6c00bdc663e8e52cae6546.png?8b29e29b-cdbc-46d1-89ed-c23ed7bb5e22" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1738832/">Без комментариев!</a></h4>
 > <small>Подниму холиварную тему. Несколько раз коллеги меня спрашивали - почему в своем коде я не пишу комментариев. Отвечаю на этот вопрос статьей.</small>  
 > <br clear="left">
 >
-> | :star: +51 |  :calendar: 05.01.2023 |  :speech_balloon: 145 |  :eyes: 7427 |
+> | :star: +51 |  :calendar: 05.01.2023 |  :speech_balloon: 145 |  :eyes: 7432 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/20a/20aef518d5ac54d89b3b999c80308305.png?0637b866-4a69-44a2-b98f-e0a77d2aa7ef" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/20a/20aef518d5ac54d89b3b999c80308305.png?e604d6a3-457c-448d-9fcb-1994033edcd8" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1659514/">OneScript на страже порядка на сервере тестовых баз данных</a></h4>
 > <small>Наводим порядок на сервере тестовых баз с помощью любимого инструмента - OneScript. Находим заброшенные базы на сервере MS SQL, определяем кандидатов на удаление.</small>  
 > <br clear="left">
 >
-> | :star: +39 |  :calendar: 14.06.2022 |  :speech_balloon: 23 |  :eyes: 4541 |
+> | :star: +39 |  :calendar: 14.06.2022 |  :speech_balloon: 23 |  :eyes: 4549 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/e14/e1450a46ada4396156f7926873b44636.jpg?f9eec434-1880-469f-80e5-859eef5175b2" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/e14/e1450a46ada4396156f7926873b44636.jpg?e70f9cfd-429c-4412-9ff7-3b4b2a1cf59b" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1659621/">Как выжить, если у тебя в базе 1С 50+ расширений</a></h4>
 > <small>Расширения – это простой способ делать доработки на лету. Но администрировать большое количество расширений и не допустить бардак – очень сложно. О том, как выжить в такой ситуации, реализовать управление доработками и установкой актуальных версий расширений, на митапе «Путь к идеальному коду» рассказал Юрий Былинкин – архитектор 1С в компании Аскона.</small>  
 > <br clear="left">
 >
-> | :star: +58 |  :calendar: 16.05.2022 |  :speech_balloon: 45 |  :eyes: 7991 |
+> | :star: +58 |  :calendar: 16.05.2022 |  :speech_balloon: 45 |  :eyes: 7993 |
 >  |-|-|-|-|  
 </div>
