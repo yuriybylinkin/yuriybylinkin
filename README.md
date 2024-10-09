@@ -1,46 +1,46 @@
 ﻿<div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/d4f/d4f0f30466b1df9fe44076cdaa9fbfec.jpg?82b89221-a89b-40b6-9a0a-556b481628cf" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/d4f/d4f0f30466b1df9fe44076cdaa9fbfec.jpg?ae15275d-638c-44cf-bd1f-9b840a6adbe3" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2181966/">Релиз каждый день – это тоже релиз!</a></h4>
 > <small>Во многих командах незаслуженно забывают о том, что в базе меняются расширения (как от вендора, так и собственные) и внешние отчеты и обработки. Вплоть до того, что релиз происходит каждый день – меняются печатные формы, отчеты, обработки. Расскажем о том, как выгружать в Git не только изменения конфигурации рабочего контура, но и файлы внешних обработок и расширений.</small>  
 > <br clear="left">
 >
-> | :star: +15 |  :calendar: 05.09.2024 |  :speech_balloon: 12 |  :eyes: 1671 |
+> | :star: +15 |  :calendar: 05.09.2024 |  :speech_balloon: 12 |  :eyes: 1687 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/b68/b68c7aee227ff146819fe3d51aaafc4f.png?5a5296bf-92fd-41c2-b487-1bf392dd702c" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/b68/b68c7aee227ff146819fe3d51aaafc4f.png?1c277e8f-93f5-49a1-ac83-de8bd55cebc2" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1879563/">Отдай корень! Библиотека OneScript для получения информации о захваченных объектах в хранилище</a></h4>
 > <small>Хранилище конфигурации 1С - это инструмент групповой разработки. Работают с хранилищем следующим образом: захватывают какой-либо объект, редактируют, потом отдают его в хранилище. Хранилище помечает уже захваченные объекты и не дает возможности захватить их другим пользователям. Это рождает и самый большой недостаток хранилища - невозможность работы с одним объектом нескольких пользователей, например в случае доработки разных методов в одном большом модуле.</small>  
 > <br clear="left">
 >
-> | :star: +27 |  :calendar: 26.12.2023 |  :speech_balloon: 1 |  :eyes: 2228 |
+> | :star: +27 |  :calendar: 26.12.2023 |  :speech_balloon: 1 |  :eyes: 2232 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/ae7/ae7cfed9f25da1e28207204dd72ba7cb.jpg?858d7e82-8773-451b-aa87-655a8cc8dd9e" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/ae7/ae7cfed9f25da1e28207204dd72ba7cb.jpg?af358c40-1d0f-459e-9f1d-d5c5a3f46132" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1873832/">Первый день архитектора 1С на новой работе</a></h4>
 > <small>Как быстро познакомиться с системой на новой работе или если вас пригласили провести аудит контура на 1С? О том, какие инструменты использовать для быстрой проверки настроек сервера 1С, сервера MS SQL и общей оценки инфраструктуры на производительность, на конференции Infostart Event 2021 Post-Apocalypse рассказал архитектор 1С Юрий Былинкин.</small>  
 > <br clear="left">
 >
-> | :star: +84 |  :calendar: 01.06.2023 |  :speech_balloon: 19 |  :eyes: 12535 |
+> | :star: +84 |  :calendar: 01.06.2023 |  :speech_balloon: 19 |  :eyes: 12547 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/e74/e74f5448aeaae005ebb3b127847d60c8.png?555ac45f-aa25-4351-b380-25fe0e325df9" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/e74/e74f5448aeaae005ebb3b127847d60c8.png?3b491901-9721-4687-a360-a4f7bde1fde2" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1824479/">Получаем статистику по git-репозиторию в разрезе разработчиков</a></h4>
 > <small>Итак! Представим, что наступил момент, когда разработка через исходный код реализована на предприятии в полном объеме. Мы разрабатываем в EDT или конфигураторе (но выгружаем конфигурацию в исходный код), версионируем внешние отчеты и обработки и расширения, собираем релизы, проверяем код статическим анализом, в разработке царит гармония и мир. Красота!</small>  
 > <br clear="left">
 >
-> | :star: +27 |  :calendar: 13.03.2023 |  :speech_balloon: 3 |  :eyes: 5264 |
+> | :star: +27 |  :calendar: 13.03.2023 |  :speech_balloon: 3 |  :eyes: 5274 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/3bb/3bb1cf5d4d6c00bdc663e8e52cae6546.png?5c7fc9a5-d31c-4253-89f4-8d446af09337" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/3bb/3bb1cf5d4d6c00bdc663e8e52cae6546.png?63b92968-d59b-48d7-bb9d-9b6d7a9d5854" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1738832/">Без комментариев!</a></h4>
 > <small>Подниму холиварную тему. Несколько раз коллеги меня спрашивали - почему в своем коде я не пишу комментариев. Отвечаю на этот вопрос статьей.</small>  
 > <br clear="left">
 >
-> | :star: +53 |  :calendar: 05.01.2023 |  :speech_balloon: 145 |  :eyes: 8037 |
+> | :star: +53 |  :calendar: 05.01.2023 |  :speech_balloon: 145 |  :eyes: 8051 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/20a/20aef518d5ac54d89b3b999c80308305.png?b16df937-e226-4779-bab9-d451999f7be9" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/20a/20aef518d5ac54d89b3b999c80308305.png?de412842-f1dc-4c5a-a582-c6bed07523d3" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1659514/">OneScript на страже порядка на сервере тестовых баз данных</a></h4>
 > <small>Наводим порядок на сервере тестовых баз с помощью любимого инструмента - OneScript. Находим заброшенные базы на сервере MS SQL, определяем кандидатов на удаление.</small>  
 > <br clear="left">
 >
-> | :star: +41 |  :calendar: 14.06.2022 |  :speech_balloon: 23 |  :eyes: 4902 |
+> | :star: +41 |  :calendar: 14.06.2022 |  :speech_balloon: 23 |  :eyes: 4907 |
 >  |-|-|-|-|  
 </div>
