@@ -1,46 +1,46 @@
 ﻿<div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/e41/e414792c70ac7fc57087055b20c0ca7c.png?fcf22683-e178-4292-be1a-892d5dbf4350" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/e41/e414792c70ac7fc57087055b20c0ca7c.png?4dd2a900-64dc-4966-b97b-c32ca9a67768" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2276069/">ibcmdrunner - библиотека OneScript для работы с автономным сервером</a></h4>
 > <small>В мире OneScript давно существуют библиотеки для облегчения работы с каким-либо классом программного обеспечения, например v8runner - помощник выполнения команд конфигуратора или gitrunner - программная обертка для запуска команд git.</small>  
 > <br clear="left">
 >
-> | :star: +24 |  :calendar: 09.01.2025 |  :speech_balloon: 2 |  :eyes: 1653 |
+> | :star: +24 |  :calendar: 09.01.2025 |  :speech_balloon: 2 |  :eyes: 1659 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/027/0270321251eb5458d9f266aea8dea893.jpg?1e2a7665-4fc6-447a-8fb7-4dff11e2056c" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/027/0270321251eb5458d9f266aea8dea893.jpg?28c07c48-9e87-409a-bb74-d231c9aac71f" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2209019/">OneScript для новичков</a></h4>
 > <small>OneScript – это скриптовый движок для автоматизации всего и вся. О том, как OneScript помогает в разработке скриптов на языке 1С, пойдет речь в статье.</small>  
 > <br clear="left">
 >
-> | :star: +9 |  :calendar: 10.10.2024 |  :speech_balloon: 2 |  :eyes: 5272 |
+> | :star: +9 |  :calendar: 10.10.2024 |  :speech_balloon: 2 |  :eyes: 5322 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/d4f/d4f0f30466b1df9fe44076cdaa9fbfec.jpg?934c5ffd-9a68-478d-9389-f0ca5554c5ff" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/d4f/d4f0f30466b1df9fe44076cdaa9fbfec.jpg?c9a3f5f5-efcb-495e-b445-548c9c0cff62" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2181966/">Релиз каждый день – это тоже релиз!</a></h4>
 > <small>Во многих командах незаслуженно забывают о том, что в базе меняются расширения (как от вендора, так и собственные) и внешние отчеты и обработки. Вплоть до того, что релиз происходит каждый день – меняются печатные формы, отчеты, обработки. Расскажем о том, как выгружать в Git не только изменения конфигурации рабочего контура, но и файлы внешних обработок и расширений.</small>  
 > <br clear="left">
 >
-> | :star: +16 |  :calendar: 05.09.2024 |  :speech_balloon: 12 |  :eyes: 4890 |
+> | :star: +16 |  :calendar: 05.09.2024 |  :speech_balloon: 12 |  :eyes: 4915 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/b68/b68c7aee227ff146819fe3d51aaafc4f.png?7e114738-b4c6-4c5e-8b2e-053647e44e5f" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/b68/b68c7aee227ff146819fe3d51aaafc4f.png?47f6d995-831b-4570-82fa-191d9241a5ab" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1879563/">Отдай корень! Библиотека OneScript для получения информации о захваченных объектах в хранилище</a></h4>
 > <small>Хранилище конфигурации 1С - это инструмент групповой разработки. Работают с хранилищем следующим образом: захватывают какой-либо объект, редактируют, потом отдают его в хранилище. Хранилище помечает уже захваченные объекты и не дает возможности захватить их другим пользователям. Это рождает и самый большой недостаток хранилища - невозможность работы с одним объектом нескольких пользователей, например в случае доработки разных методов в одном большом модуле.</small>  
 > <br clear="left">
 >
-> | :star: +28 |  :calendar: 26.12.2023 |  :speech_balloon: 1 |  :eyes: 5074 |
+> | :star: +28 |  :calendar: 26.12.2023 |  :speech_balloon: 1 |  :eyes: 5103 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/ae7/ae7cfed9f25da1e28207204dd72ba7cb.jpg?2e0e86fd-d1c9-4760-a0b1-6882f7707b03" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/ae7/ae7cfed9f25da1e28207204dd72ba7cb.jpg?ba1c7dc2-b0ff-43e3-8ca9-3c4274074942" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1873832/">Первый день архитектора 1С на новой работе</a></h4>
 > <small>Как быстро познакомиться с системой на новой работе или если вас пригласили провести аудит контура на 1С? О том, какие инструменты использовать для быстрой проверки настроек сервера 1С, сервера MS SQL и общей оценки инфраструктуры на производительность, на конференции Infostart Event 2021 Post-Apocalypse рассказал архитектор 1С Юрий Былинкин.</small>  
 > <br clear="left">
 >
-> | :star: +85 |  :calendar: 01.06.2023 |  :speech_balloon: 19 |  :eyes: 13488 |
+> | :star: +85 |  :calendar: 01.06.2023 |  :speech_balloon: 19 |  :eyes: 13493 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/e74/e74f5448aeaae005ebb3b127847d60c8.png?33ce0a18-ef92-4326-9e33-84298b7b51cb" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/e74/e74f5448aeaae005ebb3b127847d60c8.png?b9b29844-df74-4669-a216-a05c78436562" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1824479/">Получаем статистику по git-репозиторию в разрезе разработчиков</a></h4>
 > <small>Итак! Представим, что наступил момент, когда разработка через исходный код реализована на предприятии в полном объеме. Мы разрабатываем в EDT или конфигураторе (но выгружаем конфигурацию в исходный код), версионируем внешние отчеты и обработки и расширения, собираем релизы, проверяем код статическим анализом, в разработке царит гармония и мир. Красота!</small>  
 > <br clear="left">
 >
-> | :star: +27 |  :calendar: 13.03.2023 |  :speech_balloon: 3 |  :eyes: 9410 |
+> | :star: +27 |  :calendar: 13.03.2023 |  :speech_balloon: 3 |  :eyes: 9442 |
 >  |-|-|-|-|  
 </div>
