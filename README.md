@@ -1,46 +1,46 @@
 ﻿<div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/688/6883bf3d1d0fb67e373185cbd79a1c32.png?175557b9-713b-4cd5-8be0-9aa1a7b623e8" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/688/6883bf3d1d0fb67e373185cbd79a1c32.png?059c584d-8c9b-4f96-9146-64391316222f" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/2352971/">Картинка в теле письма при выполнении задач по почте [Расширение для 1С:Документооборот 3.0]</a></h4>
 > <small>Это простое расширение, которое помещает картинку в тело письма при выполнении задачи по почте. Ускоряет восприятие содержимого задачи.</small>  
 > <br clear="left">
 >
-> | :star: +5 |  :calendar: 31.03.2025 |  :speech_balloon: 1 |  :eyes: 1249 |
+> | :star: +5 |  :calendar: 31.03.2025 |  :speech_balloon: 1 |  :eyes: 1254 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/e41/e414792c70ac7fc57087055b20c0ca7c.png?798feabc-5f8e-41c3-a673-c0d2062cd91d" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/e41/e414792c70ac7fc57087055b20c0ca7c.png?ef994922-7251-4f53-8024-0315ba1bda21" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2276069/">ibcmdrunner - библиотека OneScript для работы с автономным сервером</a></h4>
 > <small>В мире OneScript давно существуют библиотеки для облегчения работы с каким-либо классом программного обеспечения, например v8runner - помощник выполнения команд конфигуратора или gitrunner - программная обертка для запуска команд git.</small>  
 > <br clear="left">
 >
-> | :star: +24 |  :calendar: 09.01.2025 |  :speech_balloon: 4 |  :eyes: 3612 |
+> | :star: +24 |  :calendar: 09.01.2025 |  :speech_balloon: 4 |  :eyes: 3621 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/027/0270321251eb5458d9f266aea8dea893.jpg?e7607aa7-c1fa-4946-bb2d-3997b3339d9f" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/027/0270321251eb5458d9f266aea8dea893.jpg?0632f224-9320-45e5-974d-19ab74791f88" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2209019/">OneScript для новичков</a></h4>
 > <small>OneScript – это скриптовый движок для автоматизации всего и вся. О том, как OneScript помогает в разработке скриптов на языке 1С, пойдет речь в статье.</small>  
 > <br clear="left">
 >
-> | :star: +15 |  :calendar: 10.10.2024 |  :speech_balloon: 2 |  :eyes: 12134 |
+> | :star: +15 |  :calendar: 10.10.2024 |  :speech_balloon: 2 |  :eyes: 12153 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/d4f/d4f0f30466b1df9fe44076cdaa9fbfec.jpg?2c81a06a-f0b7-4516-ac3f-35b69286c68b" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/d4f/d4f0f30466b1df9fe44076cdaa9fbfec.jpg?03717c1c-82d3-460e-ade0-bb17f924416d" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2181966/">Релиз каждый день – это тоже релиз!</a></h4>
 > <small>Во многих командах незаслуженно забывают о том, что в базе меняются расширения (как от вендора, так и собственные) и внешние отчеты и обработки. Вплоть до того, что релиз происходит каждый день – меняются печатные формы, отчеты, обработки. Расскажем о том, как выгружать в Git не только изменения конфигурации рабочего контура, но и файлы внешних обработок и расширений.</small>  
 > <br clear="left">
 >
-> | :star: +17 |  :calendar: 05.09.2024 |  :speech_balloon: 12 |  :eyes: 9724 |
+> | :star: +17 |  :calendar: 05.09.2024 |  :speech_balloon: 12 |  :eyes: 9725 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/b68/b68c7aee227ff146819fe3d51aaafc4f.png?64eb2bf3-0ba9-47c2-9b43-8705a1599a1a" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/b68/b68c7aee227ff146819fe3d51aaafc4f.png?7ccfb054-654b-48ec-913f-8cc2375b45c8" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1879563/">Отдай корень! Библиотека OneScript для получения информации о захваченных объектах в хранилище</a></h4>
 > <small>Хранилище конфигурации 1С - это инструмент групповой разработки. Работают с хранилищем следующим образом: захватывают какой-либо объект, редактируют, потом отдают его в хранилище. Хранилище помечает уже захваченные объекты и не дает возможности захватить их другим пользователям. Это рождает и самый большой недостаток хранилища - невозможность работы с одним объектом нескольких пользователей, например в случае доработки разных методов в одном большом модуле.</small>  
 > <br clear="left">
 >
-> | :star: +29 |  :calendar: 26.12.2023 |  :speech_balloon: 1 |  :eyes: 10294 |
+> | :star: +29 |  :calendar: 26.12.2023 |  :speech_balloon: 1 |  :eyes: 10300 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/ae7/ae7cfed9f25da1e28207204dd72ba7cb.jpg?46a78dee-8b84-4c32-b331-ab01dc980e44" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/ae7/ae7cfed9f25da1e28207204dd72ba7cb.jpg?32ec9123-7da2-47b7-8043-64f9c62fe944" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1873832/">Первый день архитектора 1С на новой работе</a></h4>
 > <small>Как быстро познакомиться с системой на новой работе или если вас пригласили провести аудит контура на 1С? О том, какие инструменты использовать для быстрой проверки настроек сервера 1С, сервера MS SQL и общей оценки инфраструктуры на производительность, на конференции Infostart Event 2021 Post-Apocalypse рассказал архитектор 1С Юрий Былинкин.</small>  
 > <br clear="left">
 >
-> | :star: +86 |  :calendar: 01.06.2023 |  :speech_balloon: 19 |  :eyes: 15125 |
+> | :star: +86 |  :calendar: 01.06.2023 |  :speech_balloon: 19 |  :eyes: 15133 |
 >  |-|-|-|-|  
 </div>
