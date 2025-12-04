@@ -1,46 +1,46 @@
 ﻿<div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/560/5606cf444a039c9d6cc573199cf9a1aa.png?b173f2b1-e762-41e6-a421-8f4fddf6ac6b" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/560/5606cf444a039c9d6cc573199cf9a1aa.png?43364ea8-2c89-4d6e-87cd-aaed888f5967" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/2535190/">Проверка на заполненность обязательных полей в строке JSON</a></h4>
 > <small>Обработка проверки заполненности и наличия обязательных полей в строке JSON.</small>  
 > <br clear="left">
 >
-> | :star: + |  :calendar: 01.12.2025 |  :speech_balloon: 2 |  :eyes: 211 |
+> | :star: +1 |  :calendar: 01.12.2025 |  :speech_balloon: 2 |  :eyes: 232 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/9f7/9f77644508b0a7366517c31ffb2f96b2.png?157955a9-3a40-4a60-8828-7b7287844d8c" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/9f7/9f77644508b0a7366517c31ffb2f96b2.png?124386ed-12e1-42c8-93bf-8b63c51107f1" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/2519909/">Возможность обхода блокировки регламентных заданий при работе в копиях информационных баз</a></h4>
 > <small>Обработка для управления возможностью обхода блокировки регламентных заданий при работе в копиях информационных баз.</small>  
 > <br clear="left">
 >
-> | :star: +22 |  :calendar: 13.11.2025 |  :speech_balloon: 9 |  :eyes: 2479 |
+> | :star: +22 |  :calendar: 13.11.2025 |  :speech_balloon: 9 |  :eyes: 2496 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/688/6883bf3d1d0fb67e373185cbd79a1c32.png?73d9a1a8-704b-4508-a414-b9cf002bdbe3" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/688/6883bf3d1d0fb67e373185cbd79a1c32.png?4b194c08-ddbe-4946-aa64-ff36f0019f93" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/2352971/">Картинка в теле письма при выполнении задач по почте [Расширение для 1С:Документооборот 3.0]</a></h4>
 > <small>Это простое расширение, которое помещает картинку в тело письма при выполнении задачи по почте. Ускоряет восприятие содержимого задачи.</small>  
 > <br clear="left">
 >
-> | :star: +5 |  :calendar: 31.03.2025 |  :speech_balloon: 1 |  :eyes: 1419 |
+> | :star: +5 |  :calendar: 31.03.2025 |  :speech_balloon: 1 |  :eyes: 1424 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/e41/e414792c70ac7fc57087055b20c0ca7c.png?d49145bd-d109-4a10-9af7-8549486402f0" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/e41/e414792c70ac7fc57087055b20c0ca7c.png?260a6fda-db66-4b74-92ea-c02fde851cbc" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2276069/">ibcmdrunner - библиотека OneScript для работы с автономным сервером</a></h4>
 > <small>В мире OneScript давно существуют библиотеки для облегчения работы с каким-либо классом программного обеспечения, например v8runner - помощник выполнения команд конфигуратора или gitrunner - программная обертка для запуска команд git.</small>  
 > <br clear="left">
 >
-> | :star: +24 |  :calendar: 09.01.2025 |  :speech_balloon: 4 |  :eyes: 3841 |
+> | :star: +24 |  :calendar: 09.01.2025 |  :speech_balloon: 4 |  :eyes: 3856 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/027/0270321251eb5458d9f266aea8dea893.jpg?9ce9a391-2ec2-4288-9145-26683e26b889" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/027/0270321251eb5458d9f266aea8dea893.jpg?a0aed786-74c5-413d-a23c-0e894afd8b7a" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2209019/">OneScript для новичков</a></h4>
 > <small>OneScript – это скриптовый движок для автоматизации всего и вся. О том, как OneScript помогает в разработке скриптов на языке 1С, пойдет речь в статье.</small>  
 > <br clear="left">
 >
-> | :star: +15 |  :calendar: 10.10.2024 |  :speech_balloon: 2 |  :eyes: 12770 |
+> | :star: +15 |  :calendar: 10.10.2024 |  :speech_balloon: 2 |  :eyes: 12791 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/d4f/d4f0f30466b1df9fe44076cdaa9fbfec.jpg?f5257a79-8252-4cab-942b-8affa2262892" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/d4f/d4f0f30466b1df9fe44076cdaa9fbfec.jpg?f74cacff-afb6-40d0-bd99-d8b2c50db2cc" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2181966/">Релиз каждый день – это тоже релиз!</a></h4>
 > <small>Во многих командах незаслуженно забывают о том, что в базе меняются расширения (как от вендора, так и собственные) и внешние отчеты и обработки. Вплоть до того, что релиз происходит каждый день – меняются печатные формы, отчеты, обработки. Расскажем о том, как выгружать в Git не только изменения конфигурации рабочего контура, но и файлы внешних обработок и расширений.</small>  
 > <br clear="left">
 >
-> | :star: +17 |  :calendar: 05.09.2024 |  :speech_balloon: 12 |  :eyes: 9921 |
+> | :star: +17 |  :calendar: 05.09.2024 |  :speech_balloon: 12 |  :eyes: 9924 |
 >  |-|-|-|-|  
 </div>
