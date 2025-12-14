@@ -1,46 +1,46 @@
 ﻿<div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/dcc/dccd396a306b2cc5041254d955018f3f.png?4e2084d7-ae1a-4b0f-9117-555826f95ee8" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/dcc/dccd396a306b2cc5041254d955018f3f.png?f6436c34-2c6d-47ec-9e31-0f5dd79396ff" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/reports/2549665/">Анализ настроек доступности по состоянию</a></h4>
 > <small>Внешняя обработка для анализа настроек доступности по состоянию.</small>  
 > <br clear="left">
 >
-> | :star: +3 |  :calendar: 11.12.2025 |  :speech_balloon: 0 |  :eyes: 187 |
+> | :star: +3 |  :calendar: 11.12.2025 |  :speech_balloon: 0 |  :eyes: 212 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/560/5606cf444a039c9d6cc573199cf9a1aa.png?d08725ad-4d4b-49e6-8be1-d691811d094a" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/560/5606cf444a039c9d6cc573199cf9a1aa.png?4bfbac83-ff4f-4a09-8782-2466fb822e79" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/2535190/">Проверка на заполненность обязательных полей в строке JSON</a></h4>
 > <small>Обработка проверки заполненности и наличия обязательных полей в строке JSON.</small>  
 > <br clear="left">
 >
-> | :star: +3 |  :calendar: 01.12.2025 |  :speech_balloon: 3 |  :eyes: 444 |
+> | :star: +3 |  :calendar: 01.12.2025 |  :speech_balloon: 3 |  :eyes: 464 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/9f7/9f77644508b0a7366517c31ffb2f96b2.png?ddb71d47-02b9-4098-86a7-7d7fe4272636" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/9f7/9f77644508b0a7366517c31ffb2f96b2.png?75480615-85bd-4901-9fcd-29899eb00dab" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/2519909/">Возможность обхода блокировки регламентных заданий при работе в копиях информационных баз</a></h4>
 > <small>Обработка для управления возможностью обхода блокировки регламентных заданий при работе в копиях информационных баз.</small>  
 > <br clear="left">
 >
-> | :star: +23 |  :calendar: 13.11.2025 |  :speech_balloon: 9 |  :eyes: 2750 |
+> | :star: +23 |  :calendar: 13.11.2025 |  :speech_balloon: 9 |  :eyes: 2778 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/688/6883bf3d1d0fb67e373185cbd79a1c32.png?23854731-ec6b-48e2-b3b7-5c6df0d717f9" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/688/6883bf3d1d0fb67e373185cbd79a1c32.png?b84efb88-0ad2-4441-8677-82a64937a2f8" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/2352971/">Картинка в теле письма при выполнении задач по почте [Расширение для 1С:Документооборот 3.0]</a></h4>
 > <small>Это простое расширение, которое помещает картинку в тело письма при выполнении задачи по почте. Ускоряет восприятие содержимого задачи.</small>  
 > <br clear="left">
 >
-> | :star: +5 |  :calendar: 31.03.2025 |  :speech_balloon: 1 |  :eyes: 1576 |
+> | :star: +5 |  :calendar: 31.03.2025 |  :speech_balloon: 1 |  :eyes: 1591 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/e41/e414792c70ac7fc57087055b20c0ca7c.png?f52aafa4-f351-468f-b4b6-00b1bafa42d0" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/e41/e414792c70ac7fc57087055b20c0ca7c.png?dcb6da65-8d9f-4dab-97b0-7aefdf09a622" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2276069/">ibcmdrunner - библиотека OneScript для работы с автономным сервером</a></h4>
 > <small>В мире OneScript давно существуют библиотеки для облегчения работы с каким-либо классом программного обеспечения, например v8runner - помощник выполнения команд конфигуратора или gitrunner - программная обертка для запуска команд git.</small>  
 > <br clear="left">
 >
-> | :star: +25 |  :calendar: 09.01.2025 |  :speech_balloon: 4 |  :eyes: 3947 |
+> | :star: +25 |  :calendar: 09.01.2025 |  :speech_balloon: 4 |  :eyes: 3951 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/027/0270321251eb5458d9f266aea8dea893.jpg?3228673d-0615-405a-b992-777c0579e2aa" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/027/0270321251eb5458d9f266aea8dea893.jpg?2c645c8f-e516-475e-8b55-ea1eee9598f2" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2209019/">OneScript для новичков</a></h4>
 > <small>OneScript – это скриптовый движок для автоматизации всего и вся. О том, как OneScript помогает в разработке скриптов на языке 1С, пойдет речь в статье.</small>  
 > <br clear="left">
 >
-> | :star: +15 |  :calendar: 10.10.2024 |  :speech_balloon: 2 |  :eyes: 13029 |
+> | :star: +15 |  :calendar: 10.10.2024 |  :speech_balloon: 2 |  :eyes: 13049 |
 >  |-|-|-|-|  
 </div>
